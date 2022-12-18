@@ -2,7 +2,7 @@
 "A bitcoin whale is a cryptocurrency term that refers to individuals or entities that hold large amounts of bitcoin."
 
 
-Whale of the day - 2022 December 17
+Whale of the day - 2022 December 18
 ----
 
 |BTC Amount|Transaction ID|
